@@ -1,0 +1,43 @@
+.Question-analysis-body-main {
+    border: 1px solid #EBF0F5;
+    height: 395px;
+    border-radius: 10px;
+}
+
+.Question-analysis-body {
+    /* display: flex;
+    justify-content: space-between; */
+    padding: 25px;
+}
+
+.Question-analysis-body-heading {
+    display: flex;
+    justify-content: space-between;
+}
+
+.Question-analysis-body-heading div {
+    font-weight: bold;
+    font-size: 16px;
+    /* color: #1E272E; */
+}
+
+.Question-analysis-pie-chart {
+    margin-top: 30px;
+}
+
+.Question-analysis-body-heading-score {
+    color: #438AF6;
+    font-size: 16px;
+}
+
+.Question-analysis-body-heading-yes {
+    color: #566474;
+    font-size: 14px;
+    padding-top: 20px;
+}
+
+
+.Question-analysis-body-heading-subheadingss {
+    font-weight: bold;
+    color: #566474;
+}

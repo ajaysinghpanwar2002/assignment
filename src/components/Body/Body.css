@@ -1,0 +1,50 @@
+.Body-page-main {
+    display: flex;
+    border-left: 2px solid black;
+    padding-bottom: 20px;
+}
+
+.Body-main-leftside {
+    margin-top: 25px;
+    width: 65%;
+}
+
+.Body-heading {
+    margin-left: 30px;
+    color: #566474;
+}
+
+.Body-main-rightside {
+    width: 35%;
+    /* background-color: aqua; */
+}
+
+.Body-Main-Html-Header {
+    padding-top: 30px;
+    padding-left: 30px;
+    padding-right: 10px;
+}
+
+.Body-Main-Quick-Stats {
+    padding-top: 30px;
+    padding-left: 30px;
+    padding-right: 10px;
+}
+
+.Body-Main-Comparison-Graphs {
+    padding-top: 30px;
+    padding-left: 30px;
+    padding-right: 10px;
+}
+
+.Body-Main-syllabus-wise-analysis {
+    padding-top: 74px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.Body-Main-question-wise-analysis { 
+    padding-top: 30px;
+    padding-left: 20px;
+    padding-right: 20px;
+}

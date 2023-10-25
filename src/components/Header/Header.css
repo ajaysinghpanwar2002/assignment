@@ -1,0 +1,31 @@
+.Header{
+    border-bottom: 2px solid #EBF0F5;
+    padding-top: 10px;
+    padding-bottom: 20px;
+    cursor: pointer;
+}
+
+.Header-body {
+    display: flex;
+    justify-content: space-between;
+    margin-left: 30px;
+}
+
+.Profile-card {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    border: 2px solid rgb(222, 222, 222);
+    border-radius: 10px;
+    padding: 8px;
+    margin-right: 40px;
+    cursor: pointer;
+}
+
+.Profile-name {
+    padding-left: 10px;
+    font-family: 'DM Sans', sans-serif;
+    font-weight: bold;
+    font-size: small;
+}

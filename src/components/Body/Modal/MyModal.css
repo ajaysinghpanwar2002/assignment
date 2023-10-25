@@ -1,0 +1,77 @@
+.MyModal-Horizontal-line {
+    border: 1px solid #EBF0F5;
+    width: 100%;
+    margin: 10px 0;
+}
+
+.MyModal-First-div {
+    display: flex;
+    justify-content: space-between;
+    padding-right: 10px;
+    /* padding-left: 20px; */
+}
+
+.MyModal-Horizontal-Button-cancel {
+    background-color: #fbfbfb;
+    border: 1px solid #142683;
+    color: #142683;
+    border-radius: 3px;
+    /* padding: 9px; */
+    font-weight: bold;
+    cursor: pointer;
+    margin-right: 40px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.MyModal-Horizontal-Button-parent {
+    display: flex;
+    width: 100%;
+    justify-content: flex-end;
+}
+
+.input-style {
+    border: 1px solid #142683;
+    border-radius: 3px;
+    color: #333;
+}
+
+.input-style::placeholder,
+.input-style {
+    padding-left: 20px;
+}
+
+.input-style:focus {
+    outline: none;
+    border-color: #007bff;
+    box-shadow: 0 0 5px rgba(0, 123, 255, 0.5);
+}
+
+
+.MYModal-Content-cards {
+    display: flex;
+    justify-content: space-between;
+    padding-top: 20px;
+    align-items: center;
+}
+
+.MYModal-Content-cards-first {
+    display: flex;
+    align-items: center;
+}
+
+.circular-element {
+    width: 15px;
+    height: 15px;
+    padding: 5px;
+    background-color: #142683;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+}
+
+.MYModal-Content-cards-text {
+    padding-left: 20px;
+}

@@ -1,0 +1,39 @@
+.QuickStats-body-main {
+    border: 1px solid #EBF0F5;
+    border-radius: 10px;
+    padding: 25px;
+}
+
+.QuickStats-body-heading {
+    font-size: 16px;
+    font-weight: bold;
+}
+
+.QuickStats-body-cards {
+    display: flex;
+    justify-content: space-between;
+    padding-top: 30px;
+}
+
+.QuickStats-body-items {
+    display: flex;
+    align-items: center;
+}
+
+.horizontal-line {
+    width: 1px;
+    height: auto;
+    background-color: #EBF0F5;
+}
+
+.QuickStats-body-items-text-top {
+    padding-left: 15px;
+    font-weight: bold;
+    font-size: 22px;
+}
+
+.QuickStats-body-items-text-bottom {
+    padding-left: 15px;
+    color: #9EAAB7;
+    font-size: 12px;
+}

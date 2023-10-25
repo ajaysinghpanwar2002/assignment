@@ -1,0 +1,32 @@
+.SideBar-body {
+    padding-top: 5px;
+}
+
+.SideBar-body-items {
+    margin-top: 25px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-right: 25px;
+    cursor: pointer;
+}
+
+.SideBar-skillName {
+    padding-left: 15px;
+    font-family: 'DM Sans', sans-serif;
+    color: #566474;
+}
+
+.SkillTest-color {
+    color: #445EE2;
+    font-weight: bold;
+}
+
+.Highlight {
+    background-color: #F7F8FA;
+    border: 2px solid gray;
+    border-radius: 0 30px 30px 0;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-right: 10px;
+}

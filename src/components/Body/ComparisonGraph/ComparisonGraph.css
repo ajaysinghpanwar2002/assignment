@@ -1,0 +1,30 @@
+.ComparisonGraphs-body-main {
+    border: 1px solid #EBF0F5;
+    border-radius: 10px;
+}
+
+.ComparisonGraphs-body {
+    padding: 25px;
+}
+
+.ComparisonGraphs-body-text {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.ComparisonGraphs-body-text-heading{
+    font-weight: bold;
+    font-size: 16px;
+    color: #1E272E;
+}
+
+.ComparisonGraphs-body-text-subheading{
+    padding-top: 25px;
+    color: #566474;
+    font-size: 14px;
+}
+
+.ComparisonGraphs-body-text-subheading span{
+    font-weight: bold;
+}

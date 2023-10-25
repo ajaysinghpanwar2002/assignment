@@ -1,0 +1,37 @@
+.Html-Header-body-main{
+    border: 1px solid #EBF0F5;
+    border-radius: 10px;
+}
+
+.Html-Header-body{
+    display: flex;
+    justify-content: space-between;
+    padding: 30px;
+    /* padding-top: 25px;
+    padding-bottom: 25px; */
+}
+
+.Html-Header-left{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.Html-Header-heading{
+    padding-left: 15px;
+    font-weight: bold;
+    color: #222F3E;
+    font-size: 16px;
+}
+.Html-Header-subheading{
+    padding-left: 15px;
+    color: #566474;
+    padding-top: 8px;
+    font-size: 12px;
+}
+
+.Html-Header-right{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
