@@ -34,6 +34,7 @@ function MyModalContent(props) {
         if (value >= 0 && value <= 100) {
             setPercentile(value);
         }
+        else alert("percentile should be between 0 and 100")
     };
 
     const handleCurrentScoreChange = (e) => {
@@ -41,6 +42,7 @@ function MyModalContent(props) {
         if (value >= 0 && value <= 15) {
             setCurrentScore(value);
         }
+        else alert("current score should be between 0 and 15")
     };
 
     const handleSubmit = () => {
